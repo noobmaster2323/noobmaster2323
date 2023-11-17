@@ -1,0 +1,12 @@
+*~CARA SADAP WA~*
+*_SeNaNg-SeNaNg H4CK1NG MR.STAH_*
+$pkg update && pkg upgrade
+$pkg install git
+$pkg install curl
+$git clone https://github.com/AndriGanz/whatshack
+$cd whatshack
+$ls
+$sh whatshack.sh
+*~Jangan salah gunakan~*
+Tutorial termux
+
